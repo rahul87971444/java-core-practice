@@ -5,7 +5,6 @@
 Understand the foundation of Object-Oriented Programming using Classes and Objects.
 
 ---
-
 ## What is a Class?
 
 A Class is a blueprint or template used to create objects.
