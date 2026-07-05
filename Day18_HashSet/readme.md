@@ -82,7 +82,7 @@ Bucket 3
 
 ↓
 
-Priya
+Saswati
 ```
 
 This makes searching very fast.
@@ -191,7 +191,7 @@ Rahul
 
 Aman
 
-Priya
+Saswati
 ```
 
 Output may be:
@@ -199,7 +199,7 @@ Output may be:
 ```
 Aman
 
-Priya
+Saswati
 
 Rahul
 ```
